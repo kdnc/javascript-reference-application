@@ -16,7 +16,7 @@ Resource - [Udemy] Modern React with Redux (2015)
 
 - Application for users to search for youtube videos
 - Using Youtube API to retreive youtube videos
-- Developed using React and Redux
+- Developed using React
 
 ## Tested environment
 
