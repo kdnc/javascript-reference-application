@@ -1,0 +1,18 @@
+{
+  "name": "ecmascript-fundamentals",
+  "version": "1.0.0",
+  "description": "The source code package contains a number files and folders at the root. The dist folder contains the compiled es5 JavaScript and map files. The js folder contains all of the example code that we'll be working with in the course. It contains a series of files that map to individual lessons, and it should be clear which file matches which lesson by the filename.",
+  "main": "gruntfile.js",
+  "scripts": {
+    "start": "grunt es6"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-polyfill": "^6.9.1",
+    "babel-preset-es2015": "^6.9.0",
+    "grunt": "^1.0.1",
+    "grunt-babel": "^6.0.0",
+    "grunt-cli": "^1.2.0"
+  }
+}
